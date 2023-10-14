@@ -7,8 +7,6 @@ import sys
 from urllib.parse import urlparse
 from sklearn.metrics import recall_score,precision_score,f1_score
 from sklearn.linear_model import LogisticRegression
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split,cross_val_score
 from sklearn.base import ClassifierMixin
 import warnings
