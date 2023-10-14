@@ -1,1 +1,1 @@
-## Mlflow project to understand ML flow tool ##
+## Mlflow project with Logistic Regression to understand ML flow tool ##
